@@ -1,0 +1,1 @@
+export const API_URL="http://infosystour.com:5000"
